@@ -1,6 +1,6 @@
 # pasarbuahapp
 
-A new Flutter application.
+Sebuah contoh UI Flutter yang menarik.
 
 ## Getting Started
 
